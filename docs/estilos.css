@@ -1,4 +1,9 @@
 h1 {
     border-color: red;
     text-align: center;
+    color: blue;
+}
+
+p {
+    font-style: italic;
 }
