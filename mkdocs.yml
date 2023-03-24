@@ -2,6 +2,6 @@ site_name: Markdow
 siter_url: https://github.com/albertororu/test-md-clases
 
 nav:
-- home: html.md
-- about: css.md
-- mas: index.md
+- Tema 1: html.md
+- Tema 2: css.md
+- Tema 3: index.md
