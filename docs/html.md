@@ -8,6 +8,10 @@ Esto es un texto parcialmente en ne**gri**ta.
 Esto es un *texto en cursiva*.
 Esto es un texto parcialmente en cu*rsi*va.
 
+Para agregar un texto tachado en Markdown tendrás que usar dos guiones ondulados ~~ tanto antes como después del texto que quires tachar.
+
+El siguiente texto ~~estará tachado~~
+
 ## Listas
 
 + Se pueden crear listas no ordenadas con +, - o *.
