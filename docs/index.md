@@ -4,7 +4,7 @@ Para agregar código en línea en Mardown habrá que usar comillas invertidas al
 
 Cambio de directorio con el comando `cd`.
 
-En caso de que el texto del código ya incluya comillas invertidas, se debe usar comillas invertidas dobles para escapar las comillas internas, el código quedaría así: 
+En caso de que el texto del código ya incluya comillas invertidas, se debe usar comillas invertidas dobles para escapar las comillas internas, el código quedaría así:
 
 ``let str = `texto de la cadena`;``
 
@@ -14,4 +14,3 @@ Si el código que queremos agregar consta de más de una línea, debemos agregar
 
     1et num = 5;
     num++;
-

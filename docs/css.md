@@ -12,21 +12,20 @@ Para agregar imagenes deberemos de utilizar el signo de ! seguido del texto alte
 
 ![Imagen de unas nubes](../photo-1501630834273-4b5604d2ee31.jpeg)
 
-
 ## Citas
 
 Para agregar citas en Markdown se debe agregar el signo mayor > justo delante de la línea del párrafo.
 
-> Probando Markdown para la asignatura de Lenguaje.
+> Probando Markdown para la asginatura de Lenguaje.
 
 También podemos probarlo con más de una línea.
 
-> Probando Markdown para la 
+> Me encanta este tutorial de Markdown,
 >
-> asignatura de Lenguaje (Alberto)
+> sin duda es el más completo (Paulo Coelho)
 
 Dentro de las citas podemos descubrir citas anidadas introduciendo dos signos de mayor como es:
 
-> Probando Markdow para la 
+> Probando Markdow para la
 >
 > > asignatura de Lenguaje

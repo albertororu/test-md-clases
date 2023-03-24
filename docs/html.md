@@ -1,6 +1,12 @@
 # Ejemplos Basicos de Markdown
 
-Aquí vemos una palabra en **negrita**  y también podemos observa como ponerse en *cursiva*
+## Texto
+
+Esto es un **texto en negrita**.
+Esto es un texto parcialmente en ne**gri**ta.
+
+Esto es un *texto en cursiva*.
+Esto es un texto parcialmente en cu*rsi*va.
 
 ## Listas
 
@@ -17,8 +23,17 @@ O también podemos crear listas más ordenadas con numeros:
 
 Dentro de las listas tambien podemos anidar entre las dos como por ejemplo:
 
-1. Primer elemento.
-2. Segindo elemento.
-   + Mini segundo elemento.
-   + Mini segundo elemento.
-3. Tercer elemento.
+1. Primer elemento
+2. Segundo elemento
+    + Segundo elemento
+    + Segundo elemento
+3. Tercer elemento
+
+## Tablas
+
+Para agregar tablas Markdown se debe definir las cabeceras de columna mediante al menos **tres guiones** que se situán debeja del texto de la cabecera. Para separar las cabeceras se usarán un símbolo de tubería | :
+
+| Nombre     | Tipo       |  Color  |
+| ---------- | ---------- | ------- |
+| Manzana    | Fruta      | Rojo    |
+| Pera       | Fruta      | Verde   |
