@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/albertororu/test-md-clases/</loc>
+         <loc>https://albertororu.github.io/test-md-clases/</loc>
          <lastmod>2023-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/albertororu/test-md-clases/css/</loc>
+         <loc>https://albertororu.github.io/test-md-clases/estilo/</loc>
          <lastmod>2023-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/albertororu/test-md-clases/html/</loc>
+         <loc>https://albertororu.github.io/test-md-clases/web/</loc>
          <lastmod>2023-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
