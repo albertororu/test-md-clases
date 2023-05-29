@@ -1,5 +1,5 @@
 site_name: Markdow
-siter_url: https://github.com/albertororu/test-md-clases
+site_url: https://github.com/albertororu/test-md-clases
 
 nav:
 - Tema 1: html.md
